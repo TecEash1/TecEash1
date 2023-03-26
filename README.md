@@ -3,7 +3,7 @@
 
 Skills: Python / NodeJS/JS / HTML / CSS 
 
-- 🔭 I’m currently working on Questcrafts [CraftXR bot](https://github.com/Cartrigger/QCXRSoonBot)
+- 🔭 I’m currently working on the [CraftyXR bot](https://github.com/Cartrigger/QCXRSoonBot)
 - 👍 I'm part of [QuestCrafts](https://questcraft.org) support team on [Discord](https://discord.gg/questcraft)
 - 🌱 I’m currently learning Javascript and Python
 - 🤔 I’m looking for help with Javascript
