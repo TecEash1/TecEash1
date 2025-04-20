@@ -1,4 +1,4 @@
-### Hi there 👋, I'm TechyGiraffe999 / TecEash1!
+### Hi there 👋, I'm Tecraf!
 
 Skills: Python / NodeJS/JS / HTML / CSS / GDScipt
 
