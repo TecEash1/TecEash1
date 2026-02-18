@@ -5,7 +5,6 @@ Skills: Python / NodeJS/JS / HTML / CSS / GDScipt
 <img src="https://komarev.com/ghpvc/?username=TechyGiraffe999&color=yellow&style=for-the-badge">
 
 - 🔭 I’m currently working on a secret project 🤫
-- 👍 I'm part of [QuestCrafts](https://questcraft.org) support team on [Discord](https://discord.gg/questcraft)
 - 🌱 I’m currently learning Javascript/GDScript
 - 🤔 I’m looking for help with Javascript
 - 📫 How to reach me: Discord @TechyGiraffe999
