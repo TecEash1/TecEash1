@@ -1,12 +1,10 @@
 ### Hi there 👋, I'm Tecraf!
 
-Skills: Python / NodeJS/JS / HTML / CSS / GDScipt
+Skills: Python / NodeJS/JS/ExtendScript / HTML / CSS
 
 <img src="https://komarev.com/ghpvc/?username=TechyGiraffe999&color=yellow&style=for-the-badge">
 
 - 🔭 I’m currently working on a secret project 🤫
-- 🌱 I’m currently learning Javascript/GDScript
-- 🤔 I’m looking for help with Javascript
 - 📫 How to reach me: Discord @TechyGiraffe999
 
 <h3 align="left">Languages and Tools:</h3>
